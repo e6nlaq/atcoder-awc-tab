@@ -1,7 +1,7 @@
 # AtCoder AWC Tab
 
-AtCoderのナビゲーションのところに「AtCoder Weekday Contest」のボタンを追加するユーザースクリプトです
-平日の時はその日のAWCを、土日の時は金曜のAWCを開きます
+AtCoderのナビゲーションのところに「AtCoder Weekday Contest」のボタンを追加するユーザースクリプトです。
+平日の時はその日のAWCを、土日の時は金曜のAWCを開きます。
 
 AIに5分くらいで書かせたので自己責任でお使いください
 
