@@ -6,6 +6,7 @@
 // @author       e6nlaq
 // @match        https://atcoder.jp/*
 // @grant        none
+// @license MIT
 // ==/UserScript==
 
 (function () {
