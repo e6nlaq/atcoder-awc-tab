@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         AtCoder Add AWC Tab
+// @name         AtCoder AWC Tab
 // @namespace    http://e6nlaq.vercel.app
 // @version      1.0.0
 // @description  AtCoderのナビゲーションバーに今日のAWCへのリンクを追加する
