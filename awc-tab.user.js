@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         AtCoder AWC Tab
 // @namespace    http://e6nlaq.vercel.app
-// @version      1.0.0
+// @version      1.0.1
 // @description  AtCoderのナビゲーションバーに今日のAWCへのリンクを追加する
 // @author       e6nlaq
-// @match        https://atcoder.jp/*
+// @match        https://atcoder.jp/home*
 // @grant        none
 // @license MIT
 // ==/UserScript==
